@@ -7,7 +7,7 @@
 
 	<?php
 	if (isset($_POST['password'])) {
-		if($_POST['password'] == 'letmein') {
+		if($_POST['password'] == 'password') {
 
 			header("Location: https://demigod-corp.github.com/influx/r9escAVjZUsiGpGJ.html");
 			exit;
