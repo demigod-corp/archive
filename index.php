@@ -24,7 +24,7 @@
 <!-- replace "password.php" with the name of the password page. you can just leave the filename the way it is. -->
 
 <form action="index.php" method="POST">
-	Password: 
+	password: 
 	<br />
 	<input type="password" name="password" />
 	<input type="submit" value="Submit" />
