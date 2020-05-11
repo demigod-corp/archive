@@ -14,7 +14,7 @@
 
 } else {
 
-		echo "password incorrect bitchboy";
+		echo "password incorrect";
 		exit;
 
 	}
